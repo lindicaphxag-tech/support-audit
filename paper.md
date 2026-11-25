@@ -35,10 +35,11 @@ Practitioners routinely report LOO numbers without checking whether the support
 set can validate itself, and a single global `nu` threshold does not transfer
 across isotropic, anisotropic, near-duplicate, label-noise,
 class-imbalanced, query-shift, and mixed regimes. Existing tools cover adjacent
-pieces: scikit-learn provides Ledoit-Wolf covariance estimation and
-cross-validation, but not the leverage decomposition or the calibrated
-decision. `support-audit` turns the diagnostic into a small, testable
-command-line and Python interface with a fixed CSV contract.
+pieces: scikit-learn [@pedregosa2011scikit] provides Ledoit-Wolf covariance
+estimation [@ledoit2004well] and cross-validation, but not the leverage
+decomposition or the calibrated decision. `support-audit` turns the diagnostic
+into a small, testable command-line and Python interface with a fixed CSV
+contract.
 
 The package is deliberately narrow. It does not claim distribution-free
 coverage, it does not replace a held-out test set, and it does not promise the
