@@ -77,3 +77,9 @@ On 64 hidden audits (8 regimes, balanced 32 safe / 32 unsafe), the reference imp
 ## License
 
 MIT.
+
+## Persistent identifier
+
+Software Heritage archive (v0.1.0 directory): `swh:1:dir:15b14f7df36721f769bf6aab9fd656f3ab44dd69`
+
+Revision: `swh:1:rev:7dae0f0e61538fe8d1cae8f699e4825e61866c8e`

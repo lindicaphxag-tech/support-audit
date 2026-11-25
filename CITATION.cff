@@ -17,3 +17,8 @@ keywords:
   - breakdown parameter
   - few-shot learning
   - evaluation audit
+
+identifiers:
+  - type: swh
+    value: "swh:1:dir:15b14f7df36721f769bf6aab9fd656f3ab44dd69"
+    description: "Software Heritage directory for v0.1.0"
