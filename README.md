@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-pip install support-audit
+pip install git+https://github.com/lindicaphxag-tech/support-audit.git
 ```
 
 From source:
