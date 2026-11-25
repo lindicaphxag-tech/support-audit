@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "support-audit: Ledoit-Wolf breakdown audit for few-shot support-set validation"
+version: 0.1.0
+date-released: 2026-11-25
+authors:
+  - family-names: Zhang
+    given-names: Zhibo
+    affiliation: "Hangzhou Dianzi University"
+    email: 24061721@hdu.edu.cn
+repository-code: "https://github.com/lindicaphxag-tech/support-audit"
+license: MIT
+keywords:
+  - support-set validation
+  - leave-one-out
+  - Ledoit-Wolf
+  - breakdown parameter
+  - few-shot learning
+  - evaluation audit
